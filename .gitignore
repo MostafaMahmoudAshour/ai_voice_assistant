@@ -1,0 +1,19 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment folder
+env/
+voice/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore large data
+data/
+*.sqlite
+*.db
+
+# Ignore secrets
+.env
+config.json
